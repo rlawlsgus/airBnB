@@ -9,6 +9,7 @@ imported
 run server (init)
 
 > python manage.py migrate
+
 > python manage.py runserver
 
 create admin
